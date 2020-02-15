@@ -1,0 +1,9 @@
+D:\ИНСТ\курсач\2 курс\prototype\prototype\bin\Debug\prototype.exe.config
+D:\ИНСТ\курсач\2 курс\prototype\prototype\bin\Debug\prototype.exe
+D:\ИНСТ\курсач\2 курс\prototype\prototype\bin\Debug\prototype.pdb
+D:\ИНСТ\курсач\2 курс\prototype\prototype\obj\Debug\prototype.csprojAssemblyReference.cache
+D:\ИНСТ\курсач\2 курс\prototype\prototype\obj\Debug\Interop.WordAdapterLib.dll
+D:\ИНСТ\курсач\2 курс\prototype\prototype\obj\Debug\prototype.csproj.ResolveComReference.cache
+D:\ИНСТ\курсач\2 курс\prototype\prototype\obj\Debug\prototype.csproj.CoreCompileInputs.cache
+D:\ИНСТ\курсач\2 курс\prototype\prototype\obj\Debug\prototype.exe
+D:\ИНСТ\курсач\2 курс\prototype\prototype\obj\Debug\prototype.pdb
